@@ -1,7 +1,7 @@
 # dice
 ----
 
-dice.clj is a regex function for dungeons and dragons style dice notation.
+dice.clj is a regex function for dungeons and dragons style dice notation.  This program is not meant to be a standalone application.
 
 
 
